@@ -1,10 +1,10 @@
 <div align="center">
-  <img height=auto src="https://raw.githubusercontent.com/jiovuos/GIFs-n-IMGs/refs/heads/main/2-Photoroom.png"  />
+  <img height=auto src="https://raw.githubusercontent.com/jiovuos/GIFs-n-IMGs/refs/heads/main/8d690b5fca55ce4dfb5fee4412bb92b1.jpg"  />
 </div>
 
 ###
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1> 
 
 ###
 
@@ -48,9 +48,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-###
-
-<div align="center">
-  <img height=auto src="https://raw.githubusercontent.com/jiovuos/GIFs-n-IMGs/refs/heads/main/1-Photoroom.png"  />
-</div>
