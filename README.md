@@ -1,16 +1,10 @@
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/jiovuos/GIFs/refs/heads/main/2854a0fb2f212883bbe733a2db09a87e.gif"  />
+  <img height="178" src="https://raw.githubusercontent.com/jiovuos/GIFs-n-IMGs/refs/heads/main/2-Photoroom.png"  />
 </div>
 
 ###
 
-<h2 align="center">Hey 👋 What's up?</h2>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jiovuos.jiovuos&"  />
-</div>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -43,10 +37,22 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=jiovuos&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+###
+
+<div align="center">
+  <img height="178" src="https://raw.githubusercontent.com/jiovuos/GIFs-n-IMGs/refs/heads/main/1-Photoroom.png"  />
+</div>
 
 ###
