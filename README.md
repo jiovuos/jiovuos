@@ -1,28 +1,8 @@
-###
-
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=default&screen_effect=false&hide_title=true&hide=rank&color=white&background=%230d1117)
-
-###
-
 <h1 align="center">Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1> 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiovuos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=My%20Most%20Used%20Languages" height="170" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=default&screen_effect=false&hide_title=true&hide=rank&color=white&background=%230d1117)
 
 ###
 
