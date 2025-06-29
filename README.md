@@ -1,1 +1,1 @@
-![Stats Github Dark](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=github-dark)
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=dark&screen_effect=false)
