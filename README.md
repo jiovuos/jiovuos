@@ -1,1 +1,1 @@
-![Stats](https://pixel-profile-jiovuos.vercel.app/api/github-stats?username=jiovuos&theme=summer&screen_effect=true)
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=terminal&screen_effect=true)
