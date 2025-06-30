@@ -1,6 +1,6 @@
 ###
 
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=fuji&screen_effect=false&hide_title=true&hide=rank&color=white)
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=road-trip&screen_effect=false&hide_title=true&hide=rank&color=white)
 
 ###
 
