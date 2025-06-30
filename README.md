@@ -4,8 +4,6 @@
 
 ###
 
-###
-
 <div align="center" id="toc">
   <ul style="list-style: none">
     <summary>
