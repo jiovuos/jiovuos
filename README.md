@@ -1,9 +1,5 @@
 ###
 
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=jiovuos&theme=road_trip&screen_effect=false&hide_title=true&hide=rank&color=white)
-
-###
-
 <div align="center" id="toc">
   <ul style="list-style: none">
     <summary>
